@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+My name is Guillermo Amutio and I am currently working as a DevOps engineer at Capgemini. Among the tasks I perform as DevOps I highlight the establishment of the CICD process as well as Git strategy. I have also performed tasks related to the definition of cloud architecture, mostly AWS, although I have also worked with Azure, using from basic services, such as EC2 or CodePipeline, to more complex ones, such as Lambda or EKS.
+
+Currently, I keep improving my skills and learning new technologies. At the moment I'm trying to learn more programming languages, like Golang or Python, and other strategies that can contribute to my work, such as Terraform for IaaC.
+
+
 
 <!--
 **GuilleAmutio/GuilleAmutio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
