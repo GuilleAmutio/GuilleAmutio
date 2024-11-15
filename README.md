@@ -109,16 +109,16 @@
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="prometheus" height="28"/>
   </a>
   <a href="https://thanos.io/" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*zEF5DvCgMqv85mwJ" alt="thanos" height="28"/>
+    <img src="https://miro.medium.com/v2/resize:fit:1400/0*zEF5DvCgMqv85mwJ" style="background-color: yellow;" alt="thanos" height="28"/>
   </a>
   <a href="https://github.com/grafana/loki" target="_blank" rel="noreferrer">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*k-hdOAQjRXKoyguzKuoeKg.png" alt="loki" height="28"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Grafana_loki_logo.png" style="background-color: white;" alt="loki" height="28"/>
   </a>
   <a href="https://www.kubecost.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.st-note.com/production/uploads/images/155476290/rectangle_large_type_2_82843e1504cd2c16bb0941f5b624ca10.png?width=1200" alt="kubecost" height="28"/>
+    <img src="https://newsroom.ibm.com/image/Kubecost_banner.png" style="background-color: lightblue;" alt="kubecost" height="28"/>
   </a>
   <a href="https://armosec.io/" target="_blank" rel="noreferrer">
-    <img src="https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/original/a08c10d0-c2c1-4f59-9949-58b305fbd1d1.png" alt="armosec" height="28"/>
+    <img src="https://cybersecurity-excellence-awards.com/wp-content/uploads/2021/08/641526.png" style="background-color: white;" alt="armosec" height="28"/>
   </a>
 </p>
 
