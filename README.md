@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
   </a>
   <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pulumi/pulumi-icon.svg" alt="pulumi" width="40" height="40"/>
+    <img src="https://www.pulumi.com/logos/brand/logo-on-black.svg" alt="pulumi" width="40" height="40"/>
   </a>
 </p>
 
