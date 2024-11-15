@@ -72,7 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/>
   </a>
   <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.pulumi.com/logos/brand/logo-on-black.svg" alt="pulumi" width="40" height="40"/>
+    <img src="https://www.pulumi.com/logos/brand/logo-on-white.svg" alt="pulumi" height="28"/>
   </a>
 </p>
 
@@ -107,7 +107,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guillermo-amutio-duarte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guillermo-amutio-duarte" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guillermo-amutio-duarte" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="guillermo-amutio-duarte" height="28"  /></a>
 </p>
 
 
