@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **guilleamutio@gmail.com**
 
-- ⚡ Fun fact **I love snowboarding and can not program without music.**
+- ⚡ Fun fact **I love snowboarding, gym and can not program without music.**
 
 <h3>Cloud Services</h3>
 <p align="left">
