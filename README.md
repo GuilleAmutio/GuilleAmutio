@@ -9,7 +9,7 @@
   </ul>
 </div>
 
-<h3 align="center">Lead DevOps Engineer, driving innovation with scalable and efficient cloud solutions. Dedicated to optimizing performance and reducing costs while enabling seamless system integration.</h3>
+<h3 align="center">Driving innovation with scalable and efficient cloud solutions. Dedicated to optimizing performance and reducing costs while enabling seamless system integration.</h3>
 
 <h3 align="center">Skilled in Cloud Native Architecture, Infrastructure as code, and CI/CD automation, with expertise in AWS, Kubernetes, and Terraform. </h3>
 
