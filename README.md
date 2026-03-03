@@ -31,14 +31,8 @@
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure" height="28"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" height="28"/>
-  </a>
   <a href="https://pages.github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="github pages" height="28"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" height="28"/>
   </a>
 </p>
 
@@ -46,9 +40,6 @@
 <p align="left">
   <a href="https://golang.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go"  height="28"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"  height="28"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="28"/>
@@ -78,9 +69,6 @@
   <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" height="28"/>
   </a>
-  <a href="https://www.pulumi.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.pulumi.com/images/logo/logo-on-white-box.svg?" alt="pulumi" height="28"/>
-  </a>
   <a href="https://www.crossplane.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/crossplane/artwork/master/logo/logo-horizontal-whitetext-bluebg.png" alt="crossplane" height="28"/>
   </a>
@@ -99,9 +87,6 @@
   <a href="https://snyk.io/" target="_blank" rel="noreferrer">
     <img src="https://monkigras.com/wp-content/uploads/2016/12/snyk-logo.png" alt="snyk" height="28"/>
   </a>
-  <a href="https://www.rancher.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white" alt="rancher" height="28"/>
-  </a>
   <a href="https://www.grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" height="28"/>
   </a>
@@ -110,28 +95,6 @@
   </a>
   <a href="https://thanos.io/" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*zEF5DvCgMqv85mwJ" style="background-color: yellow;" alt="thanos" height="28"/>
-  </a>
-  <a href="https://github.com/grafana/loki" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Grafana_loki_logo.png" style="background-color: white;" alt="loki" height="28"/>
-  </a>
-  <a href="https://www.kubecost.com/" target="_blank" rel="noreferrer">
-    <img src="https://newsroom.ibm.com/image/Kubecost_banner.png" style="background-color: lightblue;" alt="kubecost" height="28"/>
-  </a>
-  <a href="https://armosec.io/" target="_blank" rel="noreferrer">
-    <img src="https://cybersecurity-excellence-awards.com/wp-content/uploads/2021/08/641526.png" style="background-color: white;" alt="armosec" height="28"/>
-  </a>
-</p>
-
-<h3>Web Frameworks</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" height="28"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" height="28"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" height="28"/>
   </a>
 </p>
 
