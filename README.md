@@ -3,7 +3,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        Hello there 👋, I'm Guillermo Amutio
+        Hello there 👋, I'm Guille
       </h1>
     </summary>
   </ul>
